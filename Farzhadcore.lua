@@ -1,4 +1,11 @@
-  gg.alert("Farzhad Script V.0.1.0")
+  gg.alert("Farzhad Script V.0.18.0
+            Changelogs:
+            -New Value: Antenna,Colourhack,Aimbot
+            -Change Value: No recoil to Less recoil
+            -New hack: Magic Bullet
+            -Remove hack: Headshot,Fast parachut
+            -Bug Fix
+            -Lag Fix")
   os.remove("/storage/emulated/0/Android/data/com.tencent.iglite/cache/GCloud.ini")
   os.remove("/storage/emulated/0/Android/data/com.tencent.iglite/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/GameErrorNoRecords")
   os.remove("/storage/emulated/0/Android/data/com.tencent.iglite/files/tbslog")
