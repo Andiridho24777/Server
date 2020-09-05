@@ -1,4 +1,4 @@
-os.remove("/storage/emulated/0/Android/data/com.tencent.iglite/cache/GCloud.ini")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.iglite/cache/GCloud.ini")
   os.remove("/storage/emulated/0/Android/data/com.tencent.iglite/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/GameErrorNoRecords")
   os.remove("/storage/emulated/0/Android/data/com.tencent.iglite/files/tbslog")
   os.remove("/storage/emulated/0/Android/data/com.tencent.iglite/files/ca-bundle.pem")
